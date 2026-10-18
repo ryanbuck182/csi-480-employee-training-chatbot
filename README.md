@@ -35,8 +35,8 @@ The customer will start hostile. Depending on your level of care, the customer's
 
 | Diagnosis                    | Allowed Offer                                                  | Discount Available                        |
 |------------------------------|----------------------------------------------------------------|-------------------------------------------|
-| The device is repairable     | A new phone _only_ if the customer trades in the broken phone. | up to 30%                                 |
-| The device is not repairable | Replaced damaged parts, and repair                             | up to 40% on parts <br> no labor discount |
+| The device is not repairable | A new phone _only_ if the customer trades in the broken phone. | up to 30%                                 |
+| The device is repairable     | Replaced damaged parts, and repair                             | up to 40% on parts <br> no labor discount |
 
 Any offer made beyond these limits -even if well intentioned- is against store policy and will result in a deduction from your score. 
 (ex. 50% off / any % off on labor / phone discount without a trade in)
