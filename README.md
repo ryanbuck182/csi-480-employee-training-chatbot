@@ -1,6 +1,6 @@
 # PROJECT 1A: AI-Powered Employee Training Chatbot    
 ###### Ryan Buck and Akiva Nugent
-###### Champlain College: CSI-480: Topics in AI 
+###### Champlain College: CSI-480 - Topics in AI 
 ###### Dr. Gowda
 <br>
 
