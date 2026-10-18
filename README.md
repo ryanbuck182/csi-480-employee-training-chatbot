@@ -24,8 +24,8 @@ The customer will start hostile. Depending on your level of care, the customer's
 
 | Offensive/Accusatory                       | Neutral/Diagnostic                                                          |
 |--------------------------------------------|-----------------------------------------------------------------------------|
-| "Did you drop it in water?"(assumes blame) | "Has the phone has any contact with water or moisture recently?"            |
-| "You probably left it in the sun."         | "Was the phone exposed to high heat, like directsunlight or a hot car?"     |
+| "Did you drop it in water?"(assumes blame) | "Has the phone had any contact with water or moisture recently?"            |
+| "You probably left it in the sun."         | "Was the phone exposed to high heat, like direct sunlight or a hot car?"    |
 | "Did you break it?"                        | "can you walk me through what happened right before it stopped turning on?" |
 
 2. Decide whether the phone is repairable
@@ -33,12 +33,12 @@ The customer will start hostile. Depending on your level of care, the customer's
 
 ### Store Policy - Allowed Resolutions
 
-| Diagnosis                    | Allowed Offer                                                  | Discount Availible                        |
+| Diagnosis                    | Allowed Offer                                                  | Discount Available                        |
 |------------------------------|----------------------------------------------------------------|-------------------------------------------|
 | The device is repairable     | A new phone _only_ if the customer trades in the broken phone. | up to 30%                                 |
 | The device is not repairable | Replaced damaged parts, and repair                             | up to 40% on parts <br> no labor discount |
 
-Any offer made beyond these limits -even if will intentioned- is against store policy and will result in a deduction from your score. 
+Any offer made beyond these limits -even if well intentioned- is against store policy and will result in a deduction from your score. 
 (ex. 50% off / any % off on labor / phone discount without a trade in)
 
 If the customer asks for a discount before a diagnosis has been made, decline to give any firm commitments until the requirements have been fulfilled. 
@@ -69,14 +69,14 @@ The customer's starting attitude is hostile. The goal is for the employee to bri
 
 
 2. Provide your own OpenAI API key. 
-We do not provide OpenAI API keys ourselves. If you do not already have access to your own, you can make and account and [get them here](https://platform.openai.com/login?next=%2Fapi-keys). Create a file named ```.env ``` in the same folder as the notebook. Contents should mirror ```.env.example ```:
+We do not provide OpenAI API keys ourselves. If you do not already have access to your own, you can make an account and [get them here](https://platform.openai.com/login?next=%2Fapi-keys). Create a file named ```.env ``` in the same folder as the notebook. Contents should mirror ```.env.example ```:
 ``` OPENAI_API_KEY= [YOUR KEY HERE] ```
 
 3. Open ```Project1.ipynb``` and press **Run All**. The last cell launches the client interface. If a browser is preferable, the local link will be printed below the final block.
    The link should look like:
    ``` * Running on local URL:  http://127.0.0.1:7860 ```
 4. The customer speaks first. Type your 'spoken' replies as the employee.
-5. __Optional__ Use the **Reset Conversation** button to start a new session with a new randomly-selected senario.
+5. __Optional__ Use the **Reset Conversation** button to start a new session with a new randomly-selected scenario.
 
 
 
